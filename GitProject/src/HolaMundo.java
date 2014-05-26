@@ -7,7 +7,9 @@ public class HolaMundo {
 		
 		int contador=0;
 		
-		System.out.println("Hola compañeros");
+		String mensaje="";
+		
+		System.out.println(mensaje);
 		System.out.println("Contador="+contador);
 	}
 
